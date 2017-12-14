@@ -1,4 +1,4 @@
-# What The Flexbox?! - (Sam's Attempts in separate branch) - New Branch Created
+# What The Flexbox?! - (Sam's Attempts in separate branch)
 
 ![](http://flexbox.io/images/share.png)
 
